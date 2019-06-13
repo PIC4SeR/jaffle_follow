@@ -1,3 +1,10 @@
+> Project: "Person tracking"
+
+> Owner: "Anna Boschi" 
+
+> Date: "2019/06" 
+
+---
 # jaffle_tracking
 The Jaffle is an upgrade of the Turtlebot3 waffle using as pc a Jetson Xavier Developer Kit and as camera an Intel Realsense d435i.
 
