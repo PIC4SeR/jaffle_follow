@@ -369,7 +369,6 @@ class INPUT(threading.Thread):
 
 
 
-
 if __name__ == '__main__':
 
 	init = INIT()

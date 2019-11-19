@@ -222,7 +222,6 @@ class INPUT(threading.Thread):
 				detection = 0
 
 
-
 			else:	#detected more than 1 person STOP command
 
 				print "Found body!"
