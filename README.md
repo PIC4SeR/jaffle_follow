@@ -1,8 +1,8 @@
 > Project: "Person tracking"
 
-> Owner: "Anna Boschi" 
+> Owner: "Anna Boschi"
 
-> Date: "2019/06" 
+> Date: "2019/06"
 
 ---
 # jaffle_tracking
@@ -18,7 +18,7 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 
 ## jaffle_tracking files
 - The launcher file jaffle_robot.launch launches the realsense d435i camera and both the core and the lidar of the jaffle.
-- In the folder nodes there are the files python implemented for doing person tracking with Haarcascade classifier.
+- In the folder nodes there are the files python implemented for doing person tracking with Haarcascade classifier or YOLO (both the code with the control implementation and the one with obstacle avoidance basic implementation).
 - In the folder src there are the Haarcascade classifiers used for the person detection.
 
 ## ROS Packages for Jaffle
@@ -37,7 +37,9 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 - [hls_lfcd_lds_driver](https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver)
 - [turtlebot3_msgs](https://github.com/ROBOTIS-GIT/turtlebot3_msgs)
 - [rosserial](https://github.com/ros-drivers/rosserial)
+- [darknet_ros](https://github.com/leggedrobotics/darknet_ros)
 
 
 ## Documents and Videos to Jaffle
 - [Video for Librealsense for Jetson Xavier](https://www.jetsonhacks.com/2019/01/21/intel-realsense-d435i-on-nvidia-jetson-agx-xavier/)
+- [Y.O.L.O.](https://pjreddie.com/darknet/yolo/)
