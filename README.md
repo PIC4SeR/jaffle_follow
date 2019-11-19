@@ -18,7 +18,7 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 
 ## jaffle_tracking files
 - The launcher file jaffle_robot.launch launches the realsense d435i camera and both the core and the lidar of the jaffle.
-- In the folder nodes there are the files python implemented for doing person tracking with Haarcascade classifier or YOLO (both the code with the control implementation and the one with obstacle avoidance basic implementation).
+- In the folder nodes there are the files python implemented for doing person tracking with Haarcascade classifier or YOLO (both the code with the control implementation and the one with the obstacle avoidance basic implementation).
 - In the folder src there are the Haarcascade classifiers used for the person detection.
 
 ## ROS Packages for Jaffle
