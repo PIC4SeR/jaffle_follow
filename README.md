@@ -23,7 +23,7 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 
 ## ROS Packages for Jaffle
 |Version|Kinetic + Ubuntu Xenial| Melodic + Ubuntu Bionic|
- 
+
 ## ROBOTIS e-Manual for Jaffle
 - [ROBOTIS e-Manual for Jaffle](http://turtlebot3.robotis.com/)
 - [Jetson Xavier Developer Kit](https://developer.nvidia.com/embedded/buy/jetson-agx-xavier-devkit)
@@ -38,7 +38,7 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 - [turtlebot3_msgs](https://github.com/ROBOTIS-GIT/turtlebot3_msgs)
 - [rosserial](https://github.com/ros-drivers/rosserial)
 - [darknet_ros](https://github.com/leggedrobotics/darknet_ros)
-- [darknet_ros_person](https://github.com/PIC4SeRCentre/darknet_ros) in order to have all the cfg and weight files of the retrained networks (Y.O.L.O. versions: 2, 3 and 3_Tiny retrained just for the class person) it is necessary to download also the repository darkne_ros_person of the PIC4SeRCentre and put the files in the related folders of the darknet_ros original repository.
+- [darknet_ros_person](https://github.com/PIC4SeRCentre/darknet_ros) in order to have all the cfg and weight files of the retrained networks (Y.O.L.O. versions: 2, 3 and 3_Tiny retrained just for the class person) it is necessary to download also the repository darknet_ros_person of the PIC4SeRCentre and put the files in the related folders of the darknet_ros original repository.
 
 
 ## Documents and Videos to Jaffle
