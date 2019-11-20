@@ -23,7 +23,7 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 
 ## ROS Packages for Jaffle
 |Version|Kinetic + Ubuntu Xenial| Melodic + Ubuntu Bionic|
-
+ 
 ## ROBOTIS e-Manual for Jaffle
 - [ROBOTIS e-Manual for Jaffle](http://turtlebot3.robotis.com/)
 - [Jetson Xavier Developer Kit](https://developer.nvidia.com/embedded/buy/jetson-agx-xavier-devkit)
