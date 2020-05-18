@@ -1,4 +1,4 @@
-> Project: "Person tracking"
+> Project: "Person Follow"
 
 > Owner: "Anna Boschi"
 
