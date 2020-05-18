@@ -5,7 +5,7 @@
 > Date: "2019/06"
 
 ---
-# jaffle_tracking
+# jaffle_follow
 The Jaffle is an upgrade of the Turtlebot3 waffle using as pc a Jetson Xavier Developer Kit and as camera an Intel Realsense d435i.
 
 The goal of the project is to track and follow a person in an indoor enviroment using a small wheeled rover and suitable sensor to monitor the target person.  
@@ -16,7 +16,7 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 - Realsense Camera d435i
 - Battery LiPo 4S
 
-## jaffle_tracking files
+## jaffle_follow files
 - The launcher file jaffle_robot.launch launches the realsense d435i camera and both the core and the lidar of the jaffle.
 - In the folder nodes there are the files python implemented for doing person tracking with Haarcascade classifier or Y.O.L.O. (both the code with the control implementation and the one with the obstacle avoidance basic implementation).
 - In the folder src there are the Haarcascade classifiers used for the person detection.
@@ -29,7 +29,7 @@ The goal of the project is to track and follow a person in an indoor enviroment 
 - [Jetson Xavier Developer Kit](https://developer.nvidia.com/embedded/buy/jetson-agx-xavier-devkit)
 - [Intel Realsense Depth Camera D435i](https://www.intelrealsense.com/depth-camera-d435i/)
 
-## Open Source related to jaffle_tracking
+## Open Source related to jaffle_follow
 - [buildLibrealsense2Xavier](https://github.com/jetsonhacks/buildLibrealsense2Xavier)
 - [realsense2_camera](https://github.com/IntelRealSense/realsense-ros/tree/development/realsense2_camera)
 - [ddynamic_reconfigure](https://github.com/awesomebytes/ddynamic_reconfigure)
